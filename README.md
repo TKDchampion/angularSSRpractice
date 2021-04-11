@@ -1,3 +1,3 @@
-# SSRDemo
+# angularSSR practice
 
 Angular + Universal + DockerCompose
